@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "news-app-5675a": {
+      "hosting": {
+        "news-app": [
+          "news-app-5675a"
+        ]
+      }
+    }
+  }
+}
